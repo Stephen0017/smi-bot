@@ -1,0 +1,7 @@
+telethon
+pillow
+requests
+python-dotenv
+anthropic
+numpy
+opencv-python-headless<5
